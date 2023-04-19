@@ -1,0 +1,11 @@
+E:\source\matura\GraphPrintDocument\Graph\bin\Debug\Graph.exe.config
+E:\source\matura\GraphPrintDocument\Graph\bin\Debug\Graph.exe
+E:\source\matura\GraphPrintDocument\Graph\bin\Debug\Graph.pdb
+E:\source\matura\GraphPrintDocument\Graph\obj\Debug\GraphPrintDocument.csproj.AssemblyReference.cache
+E:\source\matura\GraphPrintDocument\Graph\obj\Debug\GraphPrintDocument.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\GraphPrintDocument\Graph\obj\Debug\Graph.Form1.resources
+E:\source\matura\GraphPrintDocument\Graph\obj\Debug\Graph.Properties.Resources.resources
+E:\source\matura\GraphPrintDocument\Graph\obj\Debug\GraphPrintDocument.csproj.GenerateResource.cache
+E:\source\matura\GraphPrintDocument\Graph\obj\Debug\GraphPrintDocument.csproj.CoreCompileInputs.cache
+E:\source\matura\GraphPrintDocument\Graph\obj\Debug\Graph.exe
+E:\source\matura\GraphPrintDocument\Graph\obj\Debug\Graph.pdb

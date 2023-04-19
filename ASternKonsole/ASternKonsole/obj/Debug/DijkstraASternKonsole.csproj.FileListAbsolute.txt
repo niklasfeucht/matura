@@ -1,0 +1,8 @@
+C:\Users\nikla\source\repos\ASternKonsole\ASternKonsole\obj\Debug\DijkstraASternKonsole.csproj.AssemblyReference.cache
+C:\Users\nikla\source\repos\ASternKonsole\ASternKonsole\obj\Debug\DijkstraASternKonsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikla\source\repos\ASternKonsole\ASternKonsole\obj\Debug\DijkstraASternKonsole.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\ASternKonsole\ASternKonsole\bin\Debug\ASternKonsole.exe.config
+C:\Users\nikla\source\repos\ASternKonsole\ASternKonsole\bin\Debug\ASternKonsole.exe
+C:\Users\nikla\source\repos\ASternKonsole\ASternKonsole\bin\Debug\ASternKonsole.pdb
+C:\Users\nikla\source\repos\ASternKonsole\ASternKonsole\obj\Debug\ASternKonsole.exe
+C:\Users\nikla\source\repos\ASternKonsole\ASternKonsole\obj\Debug\ASternKonsole.pdb

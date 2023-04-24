@@ -1,0 +1,8 @@
+E:\source\matura\NetzwerkProtokoll\NetzwerkProtokoll\bin\Debug\NetzwerkProtokoll.exe.config
+E:\source\matura\NetzwerkProtokoll\NetzwerkProtokoll\bin\Debug\NetzwerkProtokoll.exe
+E:\source\matura\NetzwerkProtokoll\NetzwerkProtokoll\bin\Debug\NetzwerkProtokoll.pdb
+E:\source\matura\NetzwerkProtokoll\NetzwerkProtokoll\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\source\matura\NetzwerkProtokoll\NetzwerkProtokoll\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\NetzwerkProtokoll\NetzwerkProtokoll\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\source\matura\NetzwerkProtokoll\NetzwerkProtokoll\obj\Debug\NetzwerkProtokoll.exe
+E:\source\matura\NetzwerkProtokoll\NetzwerkProtokoll\obj\Debug\NetzwerkProtokoll.pdb

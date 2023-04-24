@@ -1,0 +1,12 @@
+C:\src\matura\OperatorTree\OperatorTree\bin\Debug\OperatorTree.exe.config
+C:\src\matura\OperatorTree\OperatorTree\bin\Debug\OperatorTree.exe
+C:\src\matura\OperatorTree\OperatorTree\bin\Debug\OperatorTree.pdb
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.AssemblyReference.cache
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.Form1.resources
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.Properties.Resources.resources
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.GenerateResource.cache
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.CoreCompileInputs.cache
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.exe
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.pdb
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.DialogOperand.resources
+C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.DialogOperator.resources

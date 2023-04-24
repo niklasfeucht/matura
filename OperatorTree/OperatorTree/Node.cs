@@ -30,10 +30,9 @@ namespace OperatorTree
 
         public void PaintLine(Graphics g, int x, int y)
         {
-            if(Parent != null)
-            {
-                g.DrawLine(Pens.Black, X, Y, x, y);
-            }
+            
+            g.DrawLine(Pens.Black, X, Y, x, y);
+            
         }
 
     }

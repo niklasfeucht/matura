@@ -28,19 +28,24 @@ namespace OperatorTree
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
         {
-            if(e.Button == MouseButtons.Right)
+            curr = nodes.IsInNode(e.X, e.Y);
+            if (e.Button == MouseButtons.Right)
             {
                 cmenu.Show(this, e.X, e.Y);
             } else if(e.Button == MouseButtons.Left)
             {
-                curr = nodes.IsInNode(e.X, e.Y);
-                if(ModifierKeys.HasFlag(Keys.Control))
+                if(curr!= null)
                 {
-                    moving = true;
-                } else
-                {
-                    connecting = true;
+                    if (ModifierKeys.HasFlag(Keys.Control))
+                    {
+                        moving = true;
+                    }
+                    else
+                    {
+                        connecting = true;
+                    }
                 }
+                
             }
             oldX = e.X;
             oldY = e.Y;
@@ -49,18 +54,17 @@ namespace OperatorTree
 
         private void Form1_MouseMove(object sender, MouseEventArgs e)
         {
-            if(curr != null)
+            
+            if (moving)
             {
-                if (moving)
-                {
-                    curr.X += e.X-oldX;
-                    curr.Y += e.Y-oldY;
-                }
-                else if (connecting)
-                {
-                    
-                }
+                curr.X += e.X-oldX;
+                curr.Y += e.Y-oldY;
             }
+            else if (connecting)
+            {
+                    
+            }
+            
             oldX = e.X;
             oldY = e.Y;
             Invalidate();
@@ -82,10 +86,19 @@ namespace OperatorTree
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
-            if (curr != null) curr.PaintLine(e.Graphics, oldX, oldY);
+            if (connecting) curr.PaintLine(e.Graphics, oldX, oldY);
             nodes.Paint(e.Graphics);
+            lblValid.Text = "Valid: " + nodes.IsValid();
+
+            if(nodes.IsValid())
+            {
+                lblPrefix.Text = "Prefix: " + nodes.Prefix();
+                lblInfix.Text = "Infix: " + nodes.Infix();
+                lblPostfix.Text = "Postfix: " + nodes.Postfix();
+            }
         }
 
+       
         private void operandToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DialogOperand d = new DialogOperand();

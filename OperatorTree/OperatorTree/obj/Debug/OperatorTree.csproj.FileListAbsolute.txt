@@ -10,3 +10,16 @@ C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.exe
 C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.pdb
 C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.DialogOperand.resources
 C:\src\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.DialogOperator.resources
+E:\source\matura\OperatorTree\OperatorTree\bin\Debug\OperatorTree.exe.config
+E:\source\matura\OperatorTree\OperatorTree\bin\Debug\OperatorTree.exe
+E:\source\matura\OperatorTree\OperatorTree\bin\Debug\OperatorTree.pdb
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.AssemblyReference.cache
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.DialogOperand.resources
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.DialogOperator.resources
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.Form1.resources
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.Properties.Resources.resources
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.GenerateResource.cache
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.csproj.CoreCompileInputs.cache
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.exe
+E:\source\matura\OperatorTree\OperatorTree\obj\Debug\OperatorTree.pdb

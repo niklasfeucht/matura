@@ -1,0 +1,11 @@
+E:\source\matura\GraphFull\GraphFull\bin\Debug\GraphFull.exe.config
+E:\source\matura\GraphFull\GraphFull\bin\Debug\GraphFull.exe
+E:\source\matura\GraphFull\GraphFull\bin\Debug\GraphFull.pdb
+E:\source\matura\GraphFull\GraphFull\obj\Debug\GraphFull.csproj.AssemblyReference.cache
+E:\source\matura\GraphFull\GraphFull\obj\Debug\GraphFull.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\GraphFull\GraphFull\obj\Debug\GraphFull.Form1.resources
+E:\source\matura\GraphFull\GraphFull\obj\Debug\GraphFull.Properties.Resources.resources
+E:\source\matura\GraphFull\GraphFull\obj\Debug\GraphFull.csproj.GenerateResource.cache
+E:\source\matura\GraphFull\GraphFull\obj\Debug\GraphFull.csproj.CoreCompileInputs.cache
+E:\source\matura\GraphFull\GraphFull\obj\Debug\GraphFull.exe
+E:\source\matura\GraphFull\GraphFull\obj\Debug\GraphFull.pdb

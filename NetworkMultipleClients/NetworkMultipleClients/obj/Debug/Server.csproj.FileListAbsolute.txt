@@ -1,0 +1,8 @@
+E:\source\matura\NetworkMultipleClients\NetworkMultipleClients\bin\Debug\NetworkMultipleClients.exe.config
+E:\source\matura\NetworkMultipleClients\NetworkMultipleClients\bin\Debug\NetworkMultipleClients.exe
+E:\source\matura\NetworkMultipleClients\NetworkMultipleClients\bin\Debug\NetworkMultipleClients.pdb
+E:\source\matura\NetworkMultipleClients\NetworkMultipleClients\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\source\matura\NetworkMultipleClients\NetworkMultipleClients\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\NetworkMultipleClients\NetworkMultipleClients\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\source\matura\NetworkMultipleClients\NetworkMultipleClients\obj\Debug\NetworkMultipleClients.exe
+E:\source\matura\NetworkMultipleClients\NetworkMultipleClients\obj\Debug\NetworkMultipleClients.pdb

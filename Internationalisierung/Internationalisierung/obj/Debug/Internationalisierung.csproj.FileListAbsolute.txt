@@ -1,0 +1,14 @@
+E:\source\matura\Internationalisierung\Internationalisierung\bin\Debug\Internationalisierung.exe.config
+E:\source\matura\Internationalisierung\Internationalisierung\bin\Debug\Internationalisierung.exe
+E:\source\matura\Internationalisierung\Internationalisierung\bin\Debug\Internationalisierung.pdb
+E:\source\matura\Internationalisierung\Internationalisierung\bin\Debug\en-DE\Internationalisierung.resources.dll
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.csproj.AssemblyReference.cache
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.Form1.resources
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.Properties.Resources.resources
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.Form1.en-DE.resources
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.csproj.GenerateResource.cache
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.csproj.CoreCompileInputs.cache
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\en-DE\Internationalisierung.resources.dll
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.exe
+E:\source\matura\Internationalisierung\Internationalisierung\obj\Debug\Internationalisierung.pdb

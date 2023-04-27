@@ -1,0 +1,13 @@
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\bin\Debug\Modal-NichtModal.exe.config
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\bin\Debug\Modal-NichtModal.exe
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\bin\Debug\Modal-NichtModal.pdb
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal-NichtModal.csproj.AssemblyReference.cache
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal-NichtModal.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal_NichtModal.Form1.resources
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal_NichtModal.ModalForm.resources
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal_NichtModal.NonModalForm.resources
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal_NichtModal.Properties.Resources.resources
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal-NichtModal.csproj.GenerateResource.cache
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal-NichtModal.csproj.CoreCompileInputs.cache
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal-NichtModal.exe
+E:\source\matura\Modal-NichtModal\Modal-NichtModal\obj\Debug\Modal-NichtModal.pdb

@@ -1,0 +1,8 @@
+E:\source\matura\NetzwerkDB\NetzwerkDB\bin\Debug\NetzwerkDB.exe.config
+E:\source\matura\NetzwerkDB\NetzwerkDB\bin\Debug\NetzwerkDB.exe
+E:\source\matura\NetzwerkDB\NetzwerkDB\bin\Debug\NetzwerkDB.pdb
+E:\source\matura\NetzwerkDB\NetzwerkDB\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\source\matura\NetzwerkDB\NetzwerkDB\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\NetzwerkDB\NetzwerkDB\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\source\matura\NetzwerkDB\NetzwerkDB\obj\Debug\NetzwerkDB.exe
+E:\source\matura\NetzwerkDB\NetzwerkDB\obj\Debug\NetzwerkDB.pdb

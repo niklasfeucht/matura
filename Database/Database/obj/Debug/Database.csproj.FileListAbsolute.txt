@@ -1,0 +1,8 @@
+E:\source\matura\Database\Database\bin\Debug\Database.exe.config
+E:\source\matura\Database\Database\bin\Debug\Database.exe
+E:\source\matura\Database\Database\bin\Debug\Database.pdb
+E:\source\matura\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+E:\source\matura\Database\Database\obj\Debug\Database.csproj.SuggestedBindingRedirects.cache
+E:\source\matura\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+E:\source\matura\Database\Database\obj\Debug\Database.exe
+E:\source\matura\Database\Database\obj\Debug\Database.pdb

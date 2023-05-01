@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace Modal_NichtModal
 {
+    
     public partial class Form1 : Form
     {
+        
         public Form1()
         {
             InitializeComponent();
@@ -29,7 +31,8 @@ namespace Modal_NichtModal
         private void btnNichtModal_Click(object sender, EventArgs e)
         {
             NonModalForm nonModalForm = new NonModalForm();
-            nonModalForm.Parent = this;
+            //nonModalForm.Parent = this;
+            nonModalForm.SetText += new SetTextHandler(ChangeValue);
             nonModalForm.Show();
         }
 

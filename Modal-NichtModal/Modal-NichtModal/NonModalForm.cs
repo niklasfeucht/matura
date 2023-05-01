@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace Modal_NichtModal
 {
+    public delegate void SetTextHandler(string value);
     public partial class NonModalForm : Form
     {
+        public event SetTextHandler SetText;
         public NonModalForm()
         {
             InitializeComponent();
@@ -26,7 +28,7 @@ namespace Modal_NichtModal
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            Parent.ChangeValue(textBox1.Text);
+            if(SetText != null) SetText(textBox1.Text);
         }
     }
 }
